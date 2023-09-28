@@ -28,5 +28,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kshitij-hash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### Hacktober Fest 2023 digital rewards
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-hash&theme=dark" alt="kshitij-hash" /></p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kshitij-hash&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
