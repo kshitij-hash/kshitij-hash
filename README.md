@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitij-hash&show_icons=true&locale=en" alt="kshitij-hash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshitij-hash&" alt="kshitij-hash" /></p>
+
+[![An image of @kshitijhash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitijhash)](https://holopin.io/@kshitijhash)
