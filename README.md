@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kjangra1557@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/kshitijResume](https://bit.ly/kshitijResume)
+- 📄 Know about my experiences [https://bit.ly/kshitij_resume](https://bit.ly/kshitij_resume)
 
 - ⚡ Fun fact **I can solve rubix cube under 30 seconds.**
 
