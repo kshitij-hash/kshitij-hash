@@ -1,4 +1,4 @@
-# ℹAbout me:
+# About me:
 
 - 🌱 I’m currently learning **Next.js**
 
