@@ -1,6 +1,6 @@
 # About me:
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **kjangra1557@gmail.com**
 
